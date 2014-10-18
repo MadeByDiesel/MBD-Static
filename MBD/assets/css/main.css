@@ -663,3 +663,11 @@ a:after {
   padding-top: 10px;
 }
 
+#message {
+  margin-top: 10px;
+}
+
+button.btn.btn-primary.pull-left {
+    margin-top: 10px;
+}
+
